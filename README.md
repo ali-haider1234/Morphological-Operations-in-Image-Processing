@@ -20,7 +20,7 @@ It is designed for students learning **Fundamentals of Computer Vision** and wan
 Run in Google Colab (recommended)
 Click the link below to open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1lMn2SrN4QfzB96cp0vWQntHdzZ_i9y9Y?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lMn2SrN4QfzB96cp0vWQntHdzZ_i9y9Y?usp=sharing)
 
 ---
 
